@@ -1,0 +1,15 @@
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\bin\Debug\netstandard2.0\ConverterEjemplo.deps.json
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\bin\Debug\netstandard2.0\ConverterEjemplo.dll
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\bin\Debug\netstandard2.0\ConverterEjemplo.pdb
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\obj\Debug\netstandard2.0\ConverterEjemplo.csproj.AssemblyReference.cache
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\obj\Debug\netstandard2.0\ConverterEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\obj\Debug\netstandard2.0\ConverterEjemplo.AssemblyInfoInputs.cache
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\obj\Debug\netstandard2.0\ConverterEjemplo.AssemblyInfo.cs
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\obj\Debug\netstandard2.0\ConverterEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\obj\Debug\netstandard2.0\ConverterEjemplo.dll
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\obj\Debug\netstandard2.0\refint\ConverterEjemplo.dll
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\obj\Debug\netstandard2.0\ConverterEjemplo.pdb
+C:\Users\necro\source\repos\ConverterEjemplo\ConverterEjemplo\obj\Debug\netstandard2.0\ref\ConverterEjemplo.dll

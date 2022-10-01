@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:converterejemplo="clr-namespace:ConverterEjemplo" 
+             x:Class="ConverterEjemplo.MainPage"
+             >
+
+    <!-- NameEspace Necesario para que funcion-->
+
+    <!-- Contenido que instancia a la clase que convierte la edad-->
+    <ContentPage.Resources>
+            <converterejemplo:EdadConverter x:Key="EdadConverter"/>
+        <converterejemplo:EnanleButtonByEdad x:Key="EnanleButtonByEdad"/>
+    </ContentPage.Resources>
+    
+    
+    <!-- Contenido que tiene una entrada que se llamara Edad y un lavel que hace referencia a la edad obteniendo el valor convertido de la interfaz-->
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Detector de menores" BackgroundColor="Cyan" FontSize="25" TextColor="Black"/>
+            <Entry x:Name="Edad" Placeholder="Por favor dame tu edad"/>
+            <Label Text="{Binding Source={x:Reference Edad}, Path=Text, Converter={StaticResource EdadConverter}}"/>
+            <Button Text=" Boton para adultos" IsEnabled="{Binding Source={x:Reference Edad}, Path=Text, Converter={StaticResource EnanleButtonByEdad}}"/>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

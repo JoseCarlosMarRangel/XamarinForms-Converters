@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WciIHtB9bzAuaWqD0Uo5EvlDvByxNpQ81Sx3jqCCRaa/wg6zUFI1v3/rOBYI+Q3P4EOqXAx6oZjJZZ3rPbQ6yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\necro\\source\\repos\\ConverterEjemplo\\ConverterEjemplo\\ConverterEjemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\necro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\necro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\necro\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\necro\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\necro\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
